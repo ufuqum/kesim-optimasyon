@@ -23,8 +23,7 @@ Kullanıcıların parça listelerine göre en uygun kesim planını oluşturmas�
   - `ttkthemes` (tema desteği için)  
 ---
 ## Kurulum ve Çalıştırma
-1. Gerekli paketleri yükleyin:,
-    pip install matplotlib optuna openpyxl reportlab ttkthemes
+1. Gerekli paketleri yükleyin: pip install matplotlib optuna openpyxl reportlab ttkthemes
 2. Proje klasöründe terminali açın ve programı çalıştırın:
     python main.py
 ---
